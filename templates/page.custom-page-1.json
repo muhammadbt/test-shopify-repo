@@ -6,9 +6,64 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "0d2d4fc0-927d-4860-9148-04a169e41a07": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15437782483080__0d2d4fc0-927d-4860-9148-04a169e41a07-16854441469862fcfc-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/distressed-kids-jeans.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15437782483080__0d2d4fc0-927d-4860-9148-04a169e41a07-16854441469862fcfc-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/green-t-shirt.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15437782483080__0d2d4fc0-927d-4860-9148-04a169e41a07-16854441469862fcfc-0",
+        "template--15437782483080__0d2d4fc0-927d-4860-9148-04a169e41a07-16854441469862fcfc-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "0d2d4fc0-927d-4860-9148-04a169e41a07"
   ]
 }
